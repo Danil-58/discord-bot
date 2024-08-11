@@ -25,6 +25,3 @@
    Команда: `go run main.go`.
 
 Бот будет дорабатываться...Soon
-
-
-# discord-bot
